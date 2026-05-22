@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+faker
+scikit-learn
+sqlalchemy
+fastapi
+uvicorn
