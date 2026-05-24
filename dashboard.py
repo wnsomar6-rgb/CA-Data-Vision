@@ -8,7 +8,7 @@ from utils import export_report
 from email_alert import send_alert_email, build_anomaly_report
 from data_catalog import generate_catalog
 from risk_scoring import compute_risk_score
-from app.auth import login, is_authenticated
+from auth import login, is_authenticated
 # ----------------------------
 # CONFIG
 # ----------------------------
